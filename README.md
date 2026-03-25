@@ -1,32 +1,87 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Mhd%20Ikhram%20Nasution&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mhd%20Ikhram%20Nasution&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋 I'm Mhd Ikhram Nasution
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Mobile+Developer;Flutter+Developer;Tech+Enthusiast;Future+AI+Developer"/>
+</p>
+
+---
+
+# 👋 Hi, I'm Mhd Ikhram Nasution
 
 💻 Mobile Developer  
 📱 Flutter & Android Enthusiast  
-🎮 Gamer & Tech Lover  
+🎮 Gamer & Technology Lover  
+🚀 Currently learning Mobile Development & AI  
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,python,js,html,css,mysql,git)
-
----
-
-## 📊 GitHub Stats
-
-![Ikhram GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdIkhramNasution&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,js,html,css,mysql,git,github,vscode,androidstudio"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MhdIkhramNasution&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MhdIkhramNasution&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdIkhramNasution&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-Instagram : @username  
-Email : your@email.com
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MhdIkhramNasution&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdIkhramNasution&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧑‍💻 About Me
+
+- 🎓 Informatics / Computer Science Student  
+- 📱 Interested in Mobile App Development  
+- 🤖 Learning Artificial Intelligence  
+- 🌱 Always exploring new technologies  
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/MhdIkhramNasution">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://instagram.com/username">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MhdIkhramNasution&color=blue"/>
+</p>
+
+---
+
+⭐ From [MhdIkhramNasution](https://github.com/MhdIkhramNasution)
