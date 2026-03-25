@@ -65,7 +65,7 @@
 <p align="center">
 
 <a href="https://github.com/MhdIkhramNasution">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=LinkedIn"/>
 </a>
 
 <a href="https://instagram.com/ikhram_nst">
