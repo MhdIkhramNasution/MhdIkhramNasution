@@ -68,7 +68,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://instagram.com/username">
+<a href="https://instagram.com/ikhram_nst">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
