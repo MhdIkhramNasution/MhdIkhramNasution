@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Ikhram
 
-<!--
-**MhdIkhramNasution/MhdIkhramNasution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Mobile Developer  
+📱 Flutter & Android Enthusiast  
+🎮 Gamer
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Flutter
+- Dart
+- JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+## 📫 Contact
+- Instagram: @username
+- Email: email@gmail.com
