@@ -73,15 +73,3 @@
 </a>
 
 </p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MhdIkhramNasution&color=blue"/>
-</p>
-
----
-
-⭐ From [MhdIkhramNasution](https://github.com/MhdIkhramNasution)
