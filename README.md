@@ -55,7 +55,7 @@
 
 - 🎓 Informatics / Computer Science Student  
 - 📱 Interested in Mobile App Development  
-- 🤖 Learning Artificial Intelligence  
+- 🤖 Learning Dart and Swift language  
 - 🌱 Always exploring new technologies  
 
 ---
